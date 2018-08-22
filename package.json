@@ -1,0 +1,12 @@
+{
+  "name": "baidu-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create:secret": "node create_secret.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
